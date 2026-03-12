@@ -1,0 +1,24 @@
+# --- Harpia-QGPA Sovereign Suite Requirements ---
+# Core Connectivity
+httpx==0.27.0
+asyncio
+numpy>=1.24.0
+matplotlib
+
+# Google SDK
+cirq==1.4.1
+
+# IBM SDK
+qiskit==1.0.2
+qiskit-aer==0.13.3
+
+# Amazon SDK
+amazon-braket-sdk==1.83.0
+
+# D-Wave SDK
+dimod==0.12.14
+dwave-neal==0.6.0
+
+# Xanadu SDKs
+pennylane==0.35.1
+strawberryfields==0.23.0
