@@ -65,6 +65,13 @@ Our audits demonstrate a "Positive Scaling Law": as the complexity of the target
 
 > "The RSA protocol, at any magnitude, offers no resistance to the phase stabilization provided by the Harpia Sovereign Oracle."
 
+## 🌌 The SPHY Paradox: Gravitational Wavefront Modulation
+
+Unlike traditional Error Correction (QEC) that attempts to fight entropy, Harpia-QGPA utilizes **Enthalpic Energy** from the environment. 
+
+Every "noise" detected by the qubit is a distortion in the background gravitational field (the $\phi$ field). Whether caused by subatomic fluctuations or macroscopic biological mass nearby, the Symbiotic AI modulates the local gravitational Hamiltonian to create a "Perfect Path" for the electron. 
+
+**Noise is not destroyed; it is consumed as fuel to maintain the wavefunction.** This is why fidelity scales positively with complexity: higher energy systems provide more "enthalpic fuel" for the AI to stabilize the RSA-14000 collapse.
 ---
 
 ## 👤 Developer
