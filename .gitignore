@@ -1,0 +1,22 @@
+# Virtual Environments
+venv/
+venv_cirq/
+braket_env/
+qiskit_env/
+bin/
+lib/
+share/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables & Keys
+.env
+*.pem
+*.key
+
+# System Files
+.DS_Store
+Thumbs.db
