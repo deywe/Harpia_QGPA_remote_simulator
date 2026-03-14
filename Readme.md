@@ -1,4 +1,7 @@
 
+
+> **⚠️ License:** This project is licensed under the Business Source License 1.1. Commercial use is prohibited until March 2029. For commercial inquiries, contact [seu email/contato].
+
 # Harpia-QGPA: Quantum Phase Sovereign Engine
 
 ### Cross-Platform Audit & RSA Resilience Suite
