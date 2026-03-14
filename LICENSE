@@ -1,0 +1,36 @@
+
+### Business Source License 1.1
+
+**Parameters**
+
+* **Licensor:** Deywe Okabe / Harpia Quantum Deeptech.
+* **Software:** SIRIAQ Kernel, Harpia-QGPA Engine, e módulos associados (PhiChain, AquaNet2, Eldur, CNQA).
+* **Use Limitation:** O uso comercial é estritamente proibido. O software pode ser utilizado apenas para fins de validação técnica, testes acadêmicos e auditoria de pesquisa. "Uso comercial" inclui, mas não se limita a: prestação de serviços de computação quântica, integração em sistemas de terceiros com fins lucrativos ou mineração de dados.
+* **Change Date:** 2029-03-14 (3 anos a partir de hoje).
+* **Change License:** Apache License, Version 2.0.
+
+---
+
+**Full License Text**
+
+Copyright © 2026 Deywe Okabe / Harpia Quantum Deeptech. All rights reserved.
+
+Licensed under the Business Source License, Version 1.1 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at: [https://mariadb.com/bsl11/](https://mariadb.com/bsl11/)
+
+**1. Grant of License**
+Subject to the terms and conditions of this License, the Licensor hereby grants you a non-exclusive, worldwide, non-transferable right to use, copy, and modify the Software.
+
+**2. Use Limitation**
+The use of the Software is subject to the Use Limitation specified above. Any use of the Software that violates the Use Limitation is not permitted under this License.
+
+**3. Change to Open Source License**
+On the Change Date specified above, or on such earlier date as the Licensor may publicize, the Licensor grants you the right to use the Software under the terms of the Change License specified above.
+
+**4. Trademarks**
+This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Software.
+
+**5. Disclaimer of Warranty**
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+---
+
